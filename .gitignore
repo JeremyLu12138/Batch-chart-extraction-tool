@@ -1,0 +1,30 @@
+# Environment variables
+.env
+
+# Input / output folders (PDFs, generated files)
+input/
+input-test/
+output/
+debug/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
