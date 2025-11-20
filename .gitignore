@@ -6,6 +6,7 @@ input/
 input-test/
 output/
 debug/
+transfer.ipynb
 
 # Python cache
 __pycache__/
